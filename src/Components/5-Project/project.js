@@ -6,6 +6,14 @@ import { FaLink } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { AnimatePresence, motion } from "framer-motion";
 import project1 from '../../Images/project1.PNG';
+import project2 from '../../Images/project2.PNG';
+import project3 from '../../Images/project3.PNG';
+import project4 from '../../Images/project4.PNG';
+import project5 from '../../Images/project5.PNG';
+import project6 from '../../Images/project6.PNG';
+import project7 from '../../Images/project7.PNG';
+import project8 from '../../Images/project8.PNG.jpg';
+
 
 const myProject = [
   {
@@ -13,7 +21,7 @@ const myProject = [
     Title: "Engage Business Design",
     category: "css",
     Discretion: "User interface Design to Web application Home page.",
-    imagePath: "project1",
+    imagePath: project1,
     CodePath: "https://github.com/AbdelrahmanAbdelaziz10/Task1",
     demoPath: "https://abdelrahmanabdelaziz10.github.io/Task1/",
   },
@@ -22,7 +30,7 @@ const myProject = [
     Title: "Bakery Design",
     category: "css",
     Discretion: "Web sit Design to Web application with 3 page Home , About and Contact.",
-    imagePath: "../../Images/project2.PNG",
+    imagePath: project2,
     CodePath: "https://github.com/AbdelrahmanAbdelaziz10/Task-2",
     demoPath: "https://abdelrahmanabdelaziz10.github.io/Task-2/",
   },
@@ -31,7 +39,7 @@ const myProject = [
     Title: "Html & Css Design",
     category: "css",
     Discretion: "User interface Design to Web application Home page.",
-    imagePath: "../../Images/project3.PNG",
+    imagePath: project3,
     CodePath: "https://github.com/AbdelrahmanAbdelaziz10/Task-3",
     demoPath: "https://abdelrahmanabdelaziz10.github.io/Task-3/",
   },
@@ -40,7 +48,7 @@ const myProject = [
     Title: "Watch Shop",
     category: "bootstrap",
     Discretion: "E-commerce Web sit Design Using Html , CSS and Bootstrap.",
-    imagePath: "../../Images/project4.PNG",
+    imagePath: project4,
     CodePath: "https://github.com/AbdelrahmanAbdelaziz10/Task-4",
     demoPath: "https://abdelrahmanabdelaziz10.github.io/Task-4/",
   },
@@ -49,7 +57,7 @@ const myProject = [
     Title: "Millennium Restaurant.",
     category: "js",
     Discretion: "Full E- commerce Front End web application for restaurant have Technologies Used: Html , Css , Bootstrap , javascript , Localstorage .",
-    imagePath: "../../Images/project5.PNG",
+    imagePath: project5,
     CodePath: "https://github.com/AbdelrahmanAbdelaziz10/Millennium-Restaurant.",
     demoPath: "https://abdelrahmanabdelaziz10.github.io/Millennium-Restaurant./",
   },
@@ -58,7 +66,7 @@ const myProject = [
     Title: "Clock&Calculator&Project.",
     category: "js",
     Discretion: "Collection of small projects such as a clock, digital clock, stopwatch, and calculator.I use Html, CSS, and Javascript.",
-    imagePath: "../../Images/project6.PNG",
+    imagePath: project6,
     CodePath: "https://github.com/AbdelrahmanAbdelaziz10/Clock-Calculator-Project",
     demoPath: "https://abdelrahmanabdelaziz10.github.io/Clock-Calculator-Project/",
   },
@@ -67,16 +75,16 @@ const myProject = [
     Title: "Weather App",
     category: "react",
     Discretion: "Weather Web site Show you the weather Based on the name of the city .",
-    imagePath: "../../Images/project7.PNG",
+    imagePath: project7,
     CodePath: "https://github.com/AbdelrahmanAbdelaziz10/Weather_App",
     demoPath: "https://abdelrahmanabdelaziz10.github.io/Weather_App/",
   },
   {
-    id: 7,
+    id: 8,
     Title: "Movies App",
     category: "react",
     Discretion: "Weather Web site Show you the weather Based on the name of the city .",
-    imagePath: "../../Images/project7.PNG",
+    imagePath: project8,
     CodePath: "https://github.com/AbdelrahmanAbdelaziz10/Movies_DB_App",
     demoPath: "https://abdelrahmanabdelaziz10.github.io/Movies_DB_App/",
   },
