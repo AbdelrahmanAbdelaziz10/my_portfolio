@@ -54,7 +54,7 @@ export const Hero = () => {
 
           <div className="d-flex ">
             <button className="btn2" >
-            <a href='https://drive.google.com/file/d/1pgJSXr3HTLKLzPYcUNislexdNfE4jTAb/view?usp=drive_link' target="_blank">
+            <a href='https://drive.google.com/file/d/1dLZ9pW84QFNLtgAr-pc96gCTf4Bb2qGG/view?usp=sharing' target="_blank">
             DOWNLOAD CV <FaCloudDownloadAlt className="down_icon" />
             </a>
             </button>
